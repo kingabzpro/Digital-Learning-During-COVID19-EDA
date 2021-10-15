@@ -1,0 +1,8 @@
+kaggle
+plotly
+numpy
+pandas
+math
+altair
+seaborn
+matplotlib
